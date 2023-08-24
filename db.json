@@ -1,124 +1,179 @@
 {
-    "product": [
+    "productos": [
         {
-            "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
-            "name": "Trooper taza",
-            "price": "$60.00",
-            "Description": "Taza casco Trooper",
-            "category": "starwars",
-            "id": 1
+          "imagen": "https://m.media-amazon.com/images/I/41p8FiLGtrL._AC_UF1000,1000_QL80_.jpg",
+          "categoria": "consolas",
+          "nombre": "Consola playstation 5",
+          "precio": "5,000.00",
+          "descripcion": "Consola de videojuegos",
+          "id": 5
         },
         {
-            "img": "https://cdn1.coppel.com/images/catalog/mkp/1773/5000/17733590-1.jpg",
-            "name": "Funko Vader",
-            "price": "$60.00",
-            "Description": "Funko coleccionable Darth vader",
-            "category": "starwars",
-            "id": 2
+          "imagen": "https://uvejuegos.com/img/caratulas/56710/BF1-One-B.jpg",
+          "categoria": "videojuegos",
+          "nombre": "Battlefield 4 pvtos",
+          "precio": "500.00",
+          "descripcion": "Videojuego de accion de displaros",
+          "id": 8
         },
         {
-            "img": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12N6pr.img?w=500&h=500&m=6",
-            "name": "Grogu (Baby Yoda)",
-            "price": "$100.00",
-            "Description": "Grogu peluche electrónico",
-            "category": "starwars",
-            "id": 3
+          "imagen": "https://i.blogs.es/b9cb8d/portadagodofwar2/1366_2000.jpg",
+          "categoria": "videojuegos",
+          "nombre": "God Of War ",
+          "precio": "500.00",
+          "descripcion": "Videojuego para PlayStation 2",
+          "id": 9
         },
         {
-            "img": "https://cdn.shopify.com/s/files/1/0563/9831/5692/files/luke-skywalker-lightsaber-hilt.png?v=1656863305",
-            "name": "Lightsaber",
-            "price": "$3000.00",
-            "Description": "Sable de luz para duelos",
-            "category": "starwars",
-            "id": 4
+          "imagen": "https://areajugones.sport.es/wp-content/uploads/2018/03/god-of-war-day-one-edition.jpg",
+          "categoria": "videojuegos",
+          "nombre": "God Of War ",
+          "precio": "1,000.00",
+          "descripcion": "Videojuego para PlayStation 4",
+          "id": 10
         },
         {
-            "img": "https://tooys.mx/media/wysiwyg/Darth_Vader-estatua-premium-format-por-sideshow-19.png",
-            "name": "Darth Vader",
-            "price": "$450.00",
-            "Description": "DarDarth  Vader figura de coleción",
-            "category": "starwars",
-            "id": 5
+          "imagen": "https://elcomercio.pe/resizer/wOLQD50ds0wQUm58CDhlIqQiHNg=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KYIGZ47NUNAPDLCIAQPQIUDWS4.png",
+          "categoria": "videojuegos",
+          "nombre": "GOD Of War: Ragnarok",
+          "precio": "1,200.00",
+          "descripcion": "Videojuego del legendario kratos en su travesia en la mitologia nordica",
+          "id": 11
         },
         {
-            "img": "https://www.cibermoda.mx/assets/images/craft_images/productos/Consola-Retro-Portatil-X12-Plus-pantalla-7-pulgadas-color-rojo-azul-joystick.webp",
-            "name": "X12 Plus",
-            "price": "$4500.00",
-            "Description": "consola portatil, 16 Gb de RAM",
-            "category": "consolas",
-            "id": 1
+          "imagen": "https://media.vandal.net/m/14957/20121216111142_1.jpg",
+          "categoria": "videojuegos",
+          "nombre": "Call of Duty: Black Ops 2",
+          "precio": "500.00",
+          "descripcion": "Videojuego de guerra ambientado en conflictos de Estados Unidos con diferentes visitas en mapas y modo zombies",
+          "id": 12
         },
         {
-            "img": "https://revistasociosams.com/wp-content/uploads/2021/03/control-inalambrico-Xbox%E2%80%8B-1.png",
-            "name": "Control Xbox One",
-            "price": "$950.00",
-            "Description": "Control Xbox serie One",
-            "category": "consolas",
-            "id": 2
+          "imagen": "https://cdn.atomix.vg/wp-content/uploads/2018/09/Hands-On-Red-Dead-Redemption-II.png",
+          "categoria": "videojuegos",
+          "nombre": "Red Dead Redemption 2",
+          "precio": "1,200.00",
+          "descripcion": "Videojuego ambientado en 1903, la epoca de transicion entre el viejo oeste y la civilizacion no tan civilizada, donde un vaquero junto con su familia se las arregla para sobrevivir en este cambio",
+          "id": 13
         },
         {
-            "img": "https://www.incentivosblackhawk.com.mx/wp-content/uploads/2022/05/Steam.png",
-            "name": "Steam Card",
-            "price": "$200.00",
-            "Description": "steam card 200 pelucholares",
-            "category": "consolas",
-            "id": 3
+          "imagen": "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/offer/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S2-1200x1600-11d040719a8457bbf36cabbe89b200db.jpg",
+          "categoria": "videojuegos",
+          "nombre": "Star Wars Battlefront 2",
+          "precio": "300.00",
+          "descripcion": "Videojuego ambientado en la guerra de las galaxias donde tu mision es llevar a tu batallon a la victoria siendo parte de la republica o la rebelion",
+          "id": 14
         },
         {
-            "img": "https://www.techpowerup.com/review/scuf-impact-controller-ps4-pc/images/small.png",
-            "name": "Control usb",
-            "price": "$500.00",
-            "Description": "Control de china",
-            "category": "consolas",
-            "id": 4
+          "imagen": "https://m.media-amazon.com/images/I/61-PblYntsL.jpg",
+          "categoria": "consolas",
+          "nombre": "Nintendo Switch",
+          "precio": "10,000.00",
+          "descripcion": "Consola de la gran N, Nintendo se ah enfocado en la portabilidad y gran diseño para poder jugar en cualquier lugar para después pasarlo a pantalla grande en tu sala",
+          "id": 15
         },
         {
-            "img": "https://virtumaniacos.com/wp-content/uploads/2022/03/playstation-vr-visor.webp",
-            "name": "Oculus Quest 2 ",
-            "price": "$4500.00",
-            "Description": "Su versatilidad nos va a permitir usarlas en formato Standalone, es decir no depende de ningún otro elemento como cámaras o hardware externo, y esto las ha convertido el las gafas VR más vendidas desde 2020. Incluso puedes conectarlas a un ordenador (opcional) por cable o por wifi para jugar a juegos y usar aplicaciones aún más exigentes. ",
-            "category": "consolas",
-            "id": 5
+          "imagen": "https://doto.vtexassets.com/arquivos/ids/270399/valve-steam-deck-consola-negro-dotomexico-vista-dinamica.jpg?v=638126887960900000",
+          "categoria": "consolas",
+          "nombre": "Steam Deck",
+          "precio": "10,000.00",
+          "descripcion": "Consola portatil desarrollada por Steam, dedicada a transportar los juegos que tengas en tu PC a un modo mas portatil, muchos diciendo que esta seria la PC 2",
+          "id": 16
         },
         {
-            "img": "https://otakutienda.com/cdn/shop/products/IMG_5186_580x.png?v=1644943571",
-            "name": "Pikachu Itachi  edition",
-            "price": "$500.00",
-            "Description": "Edición especial Pikachu Itachi  anbu",
-            "category": "diversos",
-            "id": 1
+          "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/82/Microsoft-Xbox-One-S-Console-wController-L.jpg",
+          "categoria": "consolas",
+          "nombre": "Xbox One S",
+          "precio": "8,000.00",
+          "descripcion": "Microsoft se enfoco en el desarrollo de sus productos hasta el punto de crear un balance entre el precio y su calidad, llegando en esta consola para todos los hogares ",
+          "id": 17
         },
         {
-            "img": "https://ggezstore.net/wp-content/uploads/2021/12/DEADPOOL-PIKACHU-e1640658722195.png",
-            "name": "Pikachu Deadpool",
-            "price": "$250.00",
-            "Description": "Pikachu edición deadpool",
-            "category": "diversos",
-            "id": 2
+          "imagen": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4mRni?ver=8361",
+          "categoria": "consolas",
+          "nombre": "Xbox Series X",
+          "precio": "15,000.00",
+          "descripcion": "Maxima cuspide de microsoft para jugar videojuegos en 4K y 60fps",
+          "id": 18
         },
         {
-            "img": "https://cdn.shopify.com/s/files/1/2437/4099/products/spider-man_marvel_silo_480x672.png?v=1649713239",
-            "name": "Spiderman Hot Toys",
-            "price": "$660.00",
-            "Description": "Hot Toys CosRider: Marvel Spider Man Far From Home - Spider Man — Distrito Max",
-            "category": "diversos",
-            "id": 3
+          "imagen": "https://m.media-amazon.com/images/I/41sN+-1hRsL.jpg",
+          "categoria": "consolas",
+          "nombre": "PlayStation 4",
+          "precio": "5,000.00",
+          "descripcion": "entretenimiento de alta calidad por parte de Sony, los mas grandes exclusivos han pasado por aqui y han dejado una gran huella en el corazon de muchos gamers",
+          "id": 19
         },
         {
-            "img": "https://www.panupli.es/3364-large_default/funko-pop-es-dla-gandalf-montado-en-gwaihir.jpg",
-            "name": "Funko Gandalf en Gwaihir",
-            "price": "$600.00",
-            "Description": "Colecciona el Funko POP de Gandalf montado en el águila Gwaihir de las increíbles películas de El Señor de los Anillos",
-            "category": "diversos",
-            "id": 4
+          "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wii_U_Console_and_Gamepad.png/800px-Wii_U_Console_and_Gamepad.png",
+          "categoria": "consolas",
+          "nombre": "WII U",
+          "precio": "3,000.00",
+          "descripcion": "Nintendo se ah enfocado en ofrecer la mayor diversion a todo el publico que quiera comenzar a jugar videojuegos, su control implementa la función de una nueva manera de jugar para todas las personas ",
+          "id": 20
         },
         {
-            "img": "https://lemongamesmx.com/cdn/shop/products/fun55641-dragon-ball-z-cell-first-form-glow-in-the-dark-pop-vinyl-figure-popcultcha-01_480x480.png?v=1661980008",
-            "name": "Cell DBZ",
-            "price": "$450.00",
-            "Description": "Cell primera forma, retroiluminado",
-            "category": "diversos",
-            "id": 5
+          "imagen": "https://m.media-amazon.com/images/I/71Lqqz+nToS.jpg",
+          "categoria": "diversos",
+          "nombre": "Amung us",
+          "precio": "200.00",
+          "descripcion": "muñeco de el famoso videojuego \"Among us\" ",
+          "id": 21
+        },
+        {
+          "imagen": "https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2019/01/4a93bf14ca40fcb196bace44527b22cd.jpg",
+          "categoria": "diversos",
+          "nombre": "Taza de kirby",
+          "precio": "300.00",
+          "descripcion": "taza adorable del pequeño personaje de kirby",
+          "id": 22
+        },
+        {
+          "imagen": "https://m.media-amazon.com/images/I/71vLOiPjrYL._AC_SX679_.jpg",
+          "categoria": "diversos",
+          "nombre": "Casco de Master Chief",
+          "precio": "800.00",
+          "descripcion": "Casco de el legendario Jefe maestro, listo para la batalla con su increible diseño sacado de Halo infinite",
+          "id": 23
+        },
+        {
+          "imagen": "https://m.media-amazon.com/images/I/51bfje7BkfL._AC_SX466_.jpg",
+          "categoria": "diversos",
+          "nombre": "Traje de spiderman",
+          "precio": "2,000.00",
+          "descripcion": "Traje del alguacil de New York, usado en el videojuego de Spiderman para PlayStation 4",
+          "id": 24
+        },
+        {
+          "imagen": "https://m.media-amazon.com/images/I/51sCmci78XL._AC_SX679_.jpg",
+          "categoria": "diversos",
+          "nombre": "Traje de alien",
+          "precio": "1,000.00",
+          "descripcion": "Los marcianos llegaron ya y llegaron secuestrando personas cha cha cha, con este traje seras el alma de la fiesta, especialmente en las bodas",
+          "id": 25
+        },
+        {
+          "imagen": "https://yt3.ggpht.com/MJdVpdVsiEx1DYcDW4LilMHD9T66nA2BNgo_Lb0xwqfsXJnUggxPmg-YKEMBp3MJA6tOf04fSiPz=s1024-nd-v1",
+          "categoria": "diversos",
+          "nombre": "Peluche de Freddy de Five Night´s and Freddys",
+          "precio": "200.00",
+          "descripcion": "De la famosa saga de videojuegos, alfredo viene a darte un abrazo con esos ojitos pispiretos directo a que lo compres, no lo pienses mas susperstar",
+          "id": 26
+        },
+        {
+          "imagen": "https://surtido.pe/wp-content/uploads/2021/02/Pokemon-Figuras-musculosas-anime-serie-figures-action-02.jpg",
+          "categoria": "diversos",
+          "nombre": "Pikachu mamado",
+          "precio": "350.00",
+          "descripcion": "Figura de coleccion de famoso pokemon",
+          "id": 27
         }
-    ]
+      ],
+      "usuarios": [
+        {
+          "correo": "usuario1@example.com",
+          "password": "contraseña1",
+          "id": 1
+        }
+      ]
 }
