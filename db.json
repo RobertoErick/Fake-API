@@ -175,5 +175,7 @@
           "password": "contraseña1",
           "id": 1
         }
-      ]
+      ],
+      "carrito": [],
+      "compras": []
 }
