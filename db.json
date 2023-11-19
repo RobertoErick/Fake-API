@@ -181,25 +181,6 @@
       "id": 2
     }
   ],
-  "carrito": [
-    {
-      "imagen": "https://cdn.atomix.vg/wp-content/uploads/2018/09/Hands-On-Red-Dead-Redemption-II.png",
-      "categoria": "videojuegos",
-      "nombre": "Red Dead Redemption 2",
-      "precio": "1,200.00",
-      "descripcion": "Videojuego ambientado en 1903, la epoca de transicion entre el viejo oeste y la civilizacion no tan civilizada, donde un vaquero junto con su familia se las arregla para sobrevivir en este cambio",
-      "id": 13,
-      "userId": "1"
-    },
-    {
-      "imagen": "https://areajugones.sport.es/wp-content/uploads/2018/03/god-of-war-day-one-edition.jpg",
-      "categoria": "videojuegos",
-      "nombre": "God Of War ",
-      "precio": "1,000.00",
-      "descripcion": "Videojuego para PlayStation 4",
-      "id": 10,
-      "userId": "1"
-    }
-  ],
+  "carrito": [],
   "compras": []
 }
